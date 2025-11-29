@@ -4,3 +4,4 @@ opencv-python-headless
 mediapipe
 av
 numpy
+protobuf<4.0.0
